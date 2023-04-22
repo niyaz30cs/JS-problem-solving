@@ -1,0 +1,15 @@
+.head
+{
+    display: flex;
+    justify-content: center;
+    background-color: cyan;
+}
+span
+{
+    background-color: red;
+}
+pre 
+{
+    font-size: 20px;
+    color:maroon;
+}
